@@ -81,6 +81,7 @@ body{
 .body{
     display: flex;
     flex-flow:row wrap;
+    height: 275px;
 }
 
 .item1{
